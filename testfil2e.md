@@ -1,1 +1,24 @@
-edited file
+{
+  "Title": "12313",
+  "Description": "234234",
+  "Link": "13413",
+  "ColorWave": "#ffffff",
+  "Color": "#ffffff",
+  "ColorWaveTwo": "#ffffff",
+  "ColorBackGround": "#ffffff",
+  "TitleGravity": "center",
+  "MessageGravity": "center",
+  "ColorMessage": "#ffffff",
+  "ColorTitle": "#ffffff",
+  "ColorBtn": "#ffffff",
+  "ColorBtnBg": "#ffffff",
+  "ColorBtnCancell": "#ffffff",
+  "ColorBtnCancellBg": "#ffffff",
+  "Cancellable": "false",
+  "MessageID": "",
+  "ShowTime": "",
+  "Button": "",
+  "ButtonCancell": "",
+  "Closure": "false",
+  "Show": "false"
+}
